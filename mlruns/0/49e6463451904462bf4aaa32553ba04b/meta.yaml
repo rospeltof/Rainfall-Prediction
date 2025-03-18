@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/49e6463451904462bf4aaa32553ba04b/artifacts
+end_time: 1742257698515
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 49e6463451904462bf4aaa32553ba04b
+run_name: unleashed-sheep-253
+run_uuid: 49e6463451904462bf4aaa32553ba04b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742257627843
+status: 3
+tags: []
+user_id: rospel

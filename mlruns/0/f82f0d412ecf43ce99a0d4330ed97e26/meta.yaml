@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f82f0d412ecf43ce99a0d4330ed97e26/artifacts
+end_time: 1742258316185
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f82f0d412ecf43ce99a0d4330ed97e26
+run_name: able-crow-780
+run_uuid: f82f0d412ecf43ce99a0d4330ed97e26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742258255157
+status: 3
+tags: []
+user_id: rospel

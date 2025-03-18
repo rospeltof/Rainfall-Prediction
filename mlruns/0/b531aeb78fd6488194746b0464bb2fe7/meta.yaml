@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b531aeb78fd6488194746b0464bb2fe7/artifacts
+end_time: 1742257894403
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b531aeb78fd6488194746b0464bb2fe7
+run_name: fortunate-snake-993
+run_uuid: b531aeb78fd6488194746b0464bb2fe7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742257823389
+status: 3
+tags: []
+user_id: rospel

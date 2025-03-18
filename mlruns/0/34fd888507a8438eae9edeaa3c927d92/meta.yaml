@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/34fd888507a8438eae9edeaa3c927d92/artifacts
+end_time: 1742254918177
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 34fd888507a8438eae9edeaa3c927d92
+run_name: bright-fish-112
+run_uuid: 34fd888507a8438eae9edeaa3c927d92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742254907693
+status: 3
+tags: []
+user_id: rospel

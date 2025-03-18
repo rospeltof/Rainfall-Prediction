@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4bfc5dc50fe6436987d35510cf20d362/artifacts
+end_time: 1742254869655
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4bfc5dc50fe6436987d35510cf20d362
+run_name: adaptable-shoat-785
+run_uuid: 4bfc5dc50fe6436987d35510cf20d362
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742254859080
+status: 3
+tags: []
+user_id: rospel

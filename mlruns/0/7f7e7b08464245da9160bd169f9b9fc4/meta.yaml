@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7f7e7b08464245da9160bd169f9b9fc4/artifacts
+end_time: 1742254588983
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7f7e7b08464245da9160bd169f9b9fc4
+run_name: whimsical-elk-48
+run_uuid: 7f7e7b08464245da9160bd169f9b9fc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742254527148
+status: 3
+tags: []
+user_id: rospel

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/108b63d2a2e34751920ddfb24caaf976/artifacts
+end_time: 1742257405590
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 108b63d2a2e34751920ddfb24caaf976
+run_name: likeable-crow-737
+run_uuid: 108b63d2a2e34751920ddfb24caaf976
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742257343970
+status: 3
+tags: []
+user_id: rospel

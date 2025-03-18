@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d3d0f373e83541d49046245e84db1966/artifacts
+end_time: 1742259770110
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d3d0f373e83541d49046245e84db1966
+run_name: fun-conch-882
+run_uuid: d3d0f373e83541d49046245e84db1966
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742259687438
+status: 3
+tags: []
+user_id: rospel

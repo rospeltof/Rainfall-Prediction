@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9bfeea2aadbb45408cb42f481a1ea3d4/artifacts
+end_time: 1742255292392
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9bfeea2aadbb45408cb42f481a1ea3d4
+run_name: caring-crow-780
+run_uuid: 9bfeea2aadbb45408cb42f481a1ea3d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742255277139
+status: 3
+tags: []
+user_id: rospel

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3d8d511379c94bc2997ff49b0fbd975a/artifacts
+end_time: 1742261697323
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3d8d511379c94bc2997ff49b0fbd975a
+run_name: adventurous-seal-37
+run_uuid: 3d8d511379c94bc2997ff49b0fbd975a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742261643343
+status: 4
+tags: []
+user_id: rospel

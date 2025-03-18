@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/85bb2e938fca4f70bf7ce3df721f8d89/artifacts
+end_time: 1742258959258
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 85bb2e938fca4f70bf7ce3df721f8d89
+run_name: grandiose-hound-537
+run_uuid: 85bb2e938fca4f70bf7ce3df721f8d89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742258904062
+status: 3
+tags: []
+user_id: rospel

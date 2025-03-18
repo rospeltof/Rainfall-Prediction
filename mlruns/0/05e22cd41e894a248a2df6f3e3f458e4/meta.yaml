@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/05e22cd41e894a248a2df6f3e3f458e4/artifacts
+end_time: 1742255260764
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 05e22cd41e894a248a2df6f3e3f458e4
+run_name: resilient-ray-285
+run_uuid: 05e22cd41e894a248a2df6f3e3f458e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742255246688
+status: 3
+tags: []
+user_id: rospel

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ffc17a52824840dcbaf34537f576813b/artifacts
+end_time: 1742261132789
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ffc17a52824840dcbaf34537f576813b
+run_name: masked-ray-817
+run_uuid: ffc17a52824840dcbaf34537f576813b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742261055968
+status: 3
+tags: []
+user_id: rospel

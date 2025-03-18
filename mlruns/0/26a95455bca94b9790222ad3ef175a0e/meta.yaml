@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/26a95455bca94b9790222ad3ef175a0e/artifacts
+end_time: 1742258632374
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 26a95455bca94b9790222ad3ef175a0e
+run_name: awesome-bat-951
+run_uuid: 26a95455bca94b9790222ad3ef175a0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742258564083
+status: 3
+tags: []
+user_id: rospel

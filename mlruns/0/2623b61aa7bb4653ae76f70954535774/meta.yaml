@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2623b61aa7bb4653ae76f70954535774/artifacts
+end_time: 1742254527144
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2623b61aa7bb4653ae76f70954535774
+run_name: sincere-finch-511
+run_uuid: 2623b61aa7bb4653ae76f70954535774
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742254437046
+status: 3
+tags: []
+user_id: rospel

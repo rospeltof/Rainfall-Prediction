@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4362b11b1b754fcb808d6598c3c0048c/artifacts
+end_time: 1742261332781
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4362b11b1b754fcb808d6598c3c0048c
+run_name: rambunctious-cub-40
+run_uuid: 4362b11b1b754fcb808d6598c3c0048c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742261219415
+status: 3
+tags: []
+user_id: rospel

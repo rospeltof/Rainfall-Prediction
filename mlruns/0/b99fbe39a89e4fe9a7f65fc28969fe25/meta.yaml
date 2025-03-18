@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b99fbe39a89e4fe9a7f65fc28969fe25/artifacts
+end_time: 1742254841700
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b99fbe39a89e4fe9a7f65fc28969fe25
+run_name: beautiful-wolf-169
+run_uuid: b99fbe39a89e4fe9a7f65fc28969fe25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742254827505
+status: 3
+tags: []
+user_id: rospel

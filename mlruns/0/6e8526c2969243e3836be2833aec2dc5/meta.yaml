@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/6e8526c2969243e3836be2833aec2dc5/artifacts
+deleted_time: 1742254369115
+end_time: 1742254023158
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 6e8526c2969243e3836be2833aec2dc5
+run_name: abundant-midge-166
+run_uuid: 6e8526c2969243e3836be2833aec2dc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742254003437
+status: 4
+tags: []
+user_id: rospel

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f7623c6af1bc474b86050389eb4e339d/artifacts
+end_time: 1742257284250
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f7623c6af1bc474b86050389eb4e339d
+run_name: classy-flea-454
+run_uuid: f7623c6af1bc474b86050389eb4e339d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742257214700
+status: 3
+tags: []
+user_id: rospel

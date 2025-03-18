@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/29fa750df34843bc8b427a6922b78e83/artifacts
+end_time: 1742259261212
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 29fa750df34843bc8b427a6922b78e83
+run_name: fortunate-skink-132
+run_uuid: 29fa750df34843bc8b427a6922b78e83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742259182629
+status: 3
+tags: []
+user_id: rospel

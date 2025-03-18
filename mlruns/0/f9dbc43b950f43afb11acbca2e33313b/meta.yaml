@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f9dbc43b950f43afb11acbca2e33313b/artifacts
+end_time: 1742255044543
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f9dbc43b950f43afb11acbca2e33313b
+run_name: gaudy-ape-682
+run_uuid: f9dbc43b950f43afb11acbca2e33313b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742255022328
+status: 3
+tags: []
+user_id: rospel

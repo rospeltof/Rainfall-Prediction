@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5b5336e9d00a4423abf3f89b88eec474/artifacts
+end_time: 1742261643319
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b5336e9d00a4423abf3f89b88eec474
+run_name: intrigued-eel-420
+run_uuid: 5b5336e9d00a4423abf3f89b88eec474
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742261573999
+status: 3
+tags: []
+user_id: rospel

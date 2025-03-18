@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/dcf55ab70a12450ba10678436ee1bf57/artifacts
+end_time: 1742261219390
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dcf55ab70a12450ba10678436ee1bf57
+run_name: suave-elk-370
+run_uuid: dcf55ab70a12450ba10678436ee1bf57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742261132816
+status: 3
+tags: []
+user_id: rospel

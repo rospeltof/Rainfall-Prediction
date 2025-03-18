@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/fd63a7b88e3a4d1f9236f353168b6eb0/artifacts
+end_time: 1742255182192
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd63a7b88e3a4d1f9236f353168b6eb0
+run_name: judicious-pig-134
+run_uuid: fd63a7b88e3a4d1f9236f353168b6eb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742255167812
+status: 3
+tags: []
+user_id: rospel

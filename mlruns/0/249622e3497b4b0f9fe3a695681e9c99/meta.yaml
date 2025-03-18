@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/249622e3497b4b0f9fe3a695681e9c99/artifacts
+end_time: 1742254990779
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 249622e3497b4b0f9fe3a695681e9c99
+run_name: bustling-shrike-861
+run_uuid: 249622e3497b4b0f9fe3a695681e9c99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742254975520
+status: 3
+tags: []
+user_id: rospel

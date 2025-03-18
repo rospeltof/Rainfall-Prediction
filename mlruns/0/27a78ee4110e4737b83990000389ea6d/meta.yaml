@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/27a78ee4110e4737b83990000389ea6d/artifacts
+end_time: 1742255387724
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 27a78ee4110e4737b83990000389ea6d
+run_name: shivering-ape-659
+run_uuid: 27a78ee4110e4737b83990000389ea6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742255364279
+status: 3
+tags: []
+user_id: rospel

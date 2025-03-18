@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7e2a5794641842518530cacfff3d854c/artifacts
+end_time: 1742260762268
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7e2a5794641842518530cacfff3d854c
+run_name: silent-sow-243
+run_uuid: 7e2a5794641842518530cacfff3d854c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742260698236
+status: 3
+tags: []
+user_id: rospel

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b741cb2d982944428c746718d69aad5a/artifacts
+end_time: 1742257558722
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b741cb2d982944428c746718d69aad5a
+run_name: industrious-goat-617
+run_uuid: b741cb2d982944428c746718d69aad5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742257510516
+status: 3
+tags: []
+user_id: rospel

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c0f2349c1fdb44729d342ae4e2690fef/artifacts
+end_time: 1742260324499
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c0f2349c1fdb44729d342ae4e2690fef
+run_name: serious-gnu-742
+run_uuid: c0f2349c1fdb44729d342ae4e2690fef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742260268006
+status: 3
+tags: []
+user_id: rospel

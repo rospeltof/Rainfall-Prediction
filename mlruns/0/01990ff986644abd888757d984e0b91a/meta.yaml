@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/01990ff986644abd888757d984e0b91a/artifacts
+end_time: 1742257018725
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 01990ff986644abd888757d984e0b91a
+run_name: adorable-mule-327
+run_uuid: 01990ff986644abd888757d984e0b91a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742256925951
+status: 3
+tags: []
+user_id: rospel

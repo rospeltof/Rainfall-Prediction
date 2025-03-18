@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/af3e80c1d1e6464ab6ad3eafb4d64fe7/artifacts
+end_time: 1742259687414
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: af3e80c1d1e6464ab6ad3eafb4d64fe7
+run_name: nimble-vole-969
+run_uuid: af3e80c1d1e6464ab6ad3eafb4d64fe7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742259606269
+status: 3
+tags: []
+user_id: rospel

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/31d550811d1443c1aca1814a7b4f1e1b/artifacts
+end_time: 1742259891473
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 31d550811d1443c1aca1814a7b4f1e1b
+run_name: victorious-conch-157
+run_uuid: 31d550811d1443c1aca1814a7b4f1e1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742259835932
+status: 3
+tags: []
+user_id: rospel

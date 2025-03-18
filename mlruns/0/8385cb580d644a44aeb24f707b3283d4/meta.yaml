@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/8385cb580d644a44aeb24f707b3283d4/artifacts
+end_time: 1742260050570
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8385cb580d644a44aeb24f707b3283d4
+run_name: suave-ram-410
+run_uuid: 8385cb580d644a44aeb24f707b3283d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742259980525
+status: 3
+tags: []
+user_id: rospel

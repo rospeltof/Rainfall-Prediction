@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c94293d1872f4ca9b7202c92a2cb5dd5/artifacts
+end_time: 1742257510513
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c94293d1872f4ca9b7202c92a2cb5dd5
+run_name: amusing-foal-773
+run_uuid: c94293d1872f4ca9b7202c92a2cb5dd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742257405593
+status: 3
+tags: []
+user_id: rospel

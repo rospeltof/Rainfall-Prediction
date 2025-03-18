@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/9bbc3e35e9fa4c04ad175fd0b7d95ae4/artifacts
+deleted_time: 1742254361703
+end_time: 1742252872941
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 9bbc3e35e9fa4c04ad175fd0b7d95ae4
+run_name: suave-turtle-546
+run_uuid: 9bbc3e35e9fa4c04ad175fd0b7d95ae4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742252856059
+status: 4
+tags: []
+user_id: rospel

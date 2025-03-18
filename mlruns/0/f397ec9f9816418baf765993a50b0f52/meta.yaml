@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f397ec9f9816418baf765993a50b0f52/artifacts
+end_time: 1742254437043
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f397ec9f9816418baf765993a50b0f52
+run_name: calm-bee-550
+run_uuid: f397ec9f9816418baf765993a50b0f52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742254348848
+status: 3
+tags: []
+user_id: rospel

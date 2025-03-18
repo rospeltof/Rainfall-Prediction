@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/84a06c021dc545969d228d7ca5de09f0/artifacts
+end_time: 1742254975500
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 84a06c021dc545969d228d7ca5de09f0
+run_name: rebellious-worm-544
+run_uuid: 84a06c021dc545969d228d7ca5de09f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742254965963
+status: 3
+tags: []
+user_id: rospel

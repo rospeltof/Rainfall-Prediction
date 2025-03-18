@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5a112fe7916e47659f269298ec7102ce/artifacts
+end_time: 1742259835907
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5a112fe7916e47659f269298ec7102ce
+run_name: upbeat-mouse-178
+run_uuid: 5a112fe7916e47659f269298ec7102ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742259770135
+status: 3
+tags: []
+user_id: rospel

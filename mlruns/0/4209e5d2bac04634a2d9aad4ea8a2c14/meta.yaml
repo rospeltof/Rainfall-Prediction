@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4209e5d2bac04634a2d9aad4ea8a2c14/artifacts
+end_time: 1742259182605
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4209e5d2bac04634a2d9aad4ea8a2c14
+run_name: colorful-foal-51
+run_uuid: 4209e5d2bac04634a2d9aad4ea8a2c14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742259113169
+status: 3
+tags: []
+user_id: rospel

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7c79bb11232c458695257d7176c8f5f2/artifacts
+end_time: 1742255493943
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c79bb11232c458695257d7176c8f5f2
+run_name: efficient-horse-694
+run_uuid: 7c79bb11232c458695257d7176c8f5f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742255480375
+status: 3
+tags: []
+user_id: rospel

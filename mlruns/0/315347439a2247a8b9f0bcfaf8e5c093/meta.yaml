@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/315347439a2247a8b9f0bcfaf8e5c093/artifacts
+end_time: 1742258375711
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 315347439a2247a8b9f0bcfaf8e5c093
+run_name: capricious-shoat-587
+run_uuid: 315347439a2247a8b9f0bcfaf8e5c093
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742258316206
+status: 3
+tags: []
+user_id: rospel

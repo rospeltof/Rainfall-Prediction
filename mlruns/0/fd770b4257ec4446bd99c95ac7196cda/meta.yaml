@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/fd770b4257ec4446bd99c95ac7196cda/artifacts
+end_time: 1742255470384
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd770b4257ec4446bd99c95ac7196cda
+run_name: colorful-cat-434
+run_uuid: fd770b4257ec4446bd99c95ac7196cda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742255457251
+status: 3
+tags: []
+user_id: rospel

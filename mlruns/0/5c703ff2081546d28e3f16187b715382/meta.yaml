@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5c703ff2081546d28e3f16187b715382/artifacts
+end_time: 1742258827933
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5c703ff2081546d28e3f16187b715382
+run_name: monumental-duck-619
+run_uuid: 5c703ff2081546d28e3f16187b715382
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742258752924
+status: 3
+tags: []
+user_id: rospel

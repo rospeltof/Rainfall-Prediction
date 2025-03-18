@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/cbf9aa293bec4d95a48427c59f28f03c/artifacts
+end_time: 1742254944790
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cbf9aa293bec4d95a48427c59f28f03c
+run_name: casual-rat-590
+run_uuid: cbf9aa293bec4d95a48427c59f28f03c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742254927461
+status: 3
+tags: []
+user_id: rospel

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/978d9abd3dcc4aa1b50253179b2d4dd3/artifacts
+end_time: 1742255324817
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 978d9abd3dcc4aa1b50253179b2d4dd3
+run_name: nosy-snipe-907
+run_uuid: 978d9abd3dcc4aa1b50253179b2d4dd3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742255306735
+status: 3
+tags: []
+user_id: rospel

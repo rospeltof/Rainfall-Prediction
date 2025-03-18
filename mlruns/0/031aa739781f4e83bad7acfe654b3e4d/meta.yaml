@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/031aa739781f4e83bad7acfe654b3e4d/artifacts
+end_time: 1742260909124
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 031aa739781f4e83bad7acfe654b3e4d
+run_name: rare-shark-947
+run_uuid: 031aa739781f4e83bad7acfe654b3e4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742260838288
+status: 3
+tags: []
+user_id: rospel

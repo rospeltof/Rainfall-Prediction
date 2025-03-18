@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/bafd4de2ee0d4f99901874c491c95c85/artifacts
+end_time: 1742257627823
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bafd4de2ee0d4f99901874c491c95c85
+run_name: resilient-bug-574
+run_uuid: bafd4de2ee0d4f99901874c491c95c85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742257591966
+status: 3
+tags: []
+user_id: rospel

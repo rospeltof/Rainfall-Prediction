@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/657ae78b0c854e948cd762986f33461d/artifacts
+end_time: 1742255022309
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 657ae78b0c854e948cd762986f33461d
+run_name: gentle-ram-266
+run_uuid: 657ae78b0c854e948cd762986f33461d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742255006218
+status: 3
+tags: []
+user_id: rospel

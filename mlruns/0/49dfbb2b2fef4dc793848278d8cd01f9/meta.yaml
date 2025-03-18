@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/49dfbb2b2fef4dc793848278d8cd01f9/artifacts
+end_time: 1742258130087
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 49dfbb2b2fef4dc793848278d8cd01f9
+run_name: welcoming-stag-86
+run_uuid: 49dfbb2b2fef4dc793848278d8cd01f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742258092907
+status: 3
+tags: []
+user_id: rospel

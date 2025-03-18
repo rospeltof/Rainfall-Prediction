@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/ffdcfac32df34350831e3c82505872d8/artifacts
+deleted_time: 1742254369117
+end_time: 1742253993689
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ffdcfac32df34350831e3c82505872d8
+run_name: crawling-frog-418
+run_uuid: ffdcfac32df34350831e3c82505872d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742253980358
+status: 4
+tags: []
+user_id: rospel

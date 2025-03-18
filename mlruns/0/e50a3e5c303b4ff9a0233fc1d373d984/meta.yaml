@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e50a3e5c303b4ff9a0233fc1d373d984/artifacts
+end_time: 1742255678571
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e50a3e5c303b4ff9a0233fc1d373d984
+run_name: able-rook-20
+run_uuid: e50a3e5c303b4ff9a0233fc1d373d984
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742255664279
+status: 3
+tags: []
+user_id: rospel

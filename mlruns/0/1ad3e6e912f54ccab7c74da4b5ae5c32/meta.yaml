@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1ad3e6e912f54ccab7c74da4b5ae5c32/artifacts
+end_time: 1742258519765
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1ad3e6e912f54ccab7c74da4b5ae5c32
+run_name: unequaled-mare-570
+run_uuid: 1ad3e6e912f54ccab7c74da4b5ae5c32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742258416134
+status: 3
+tags: []
+user_id: rospel

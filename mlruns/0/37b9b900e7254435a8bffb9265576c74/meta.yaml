@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/37b9b900e7254435a8bffb9265576c74/artifacts
+end_time: 1742259450605
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 37b9b900e7254435a8bffb9265576c74
+run_name: bemused-cod-916
+run_uuid: 37b9b900e7254435a8bffb9265576c74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742259394384
+status: 3
+tags: []
+user_id: rospel
