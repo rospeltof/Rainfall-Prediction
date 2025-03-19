@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/playground%20series/rainfall/Rainfall-Prediction/mlruns/250916149910414696/993b4c9b8346421791b2c41cf426834a/artifacts
+end_time: 1742405878710
+entry_point_name: ''
+experiment_id: '250916149910414696'
+lifecycle_stage: active
+run_id: 993b4c9b8346421791b2c41cf426834a
+run_name: melodic-moose-481
+run_uuid: 993b4c9b8346421791b2c41cf426834a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742405878474
+status: 3
+tags: []
+user_id: rospel

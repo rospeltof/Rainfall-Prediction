@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/playground%20series/rainfall/Rainfall-Prediction/mlruns/250916149910414696/b850047691f34506964f37e08f128aa9/artifacts
+end_time: 1742405909717
+entry_point_name: ''
+experiment_id: '250916149910414696'
+lifecycle_stage: active
+run_id: b850047691f34506964f37e08f128aa9
+run_name: monumental-snipe-643
+run_uuid: b850047691f34506964f37e08f128aa9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742405909191
+status: 3
+tags: []
+user_id: rospel

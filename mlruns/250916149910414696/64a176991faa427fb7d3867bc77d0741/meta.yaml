@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/playground%20series/rainfall/Rainfall-Prediction/mlruns/250916149910414696/64a176991faa427fb7d3867bc77d0741/artifacts
+end_time: 1742405918540
+entry_point_name: ''
+experiment_id: '250916149910414696'
+lifecycle_stage: active
+run_id: 64a176991faa427fb7d3867bc77d0741
+run_name: omniscient-mole-258
+run_uuid: 64a176991faa427fb7d3867bc77d0741
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742405917228
+status: 3
+tags: []
+user_id: rospel

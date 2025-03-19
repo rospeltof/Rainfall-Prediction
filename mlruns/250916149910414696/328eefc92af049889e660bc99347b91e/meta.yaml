@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/playground%20series/rainfall/Rainfall-Prediction/mlruns/250916149910414696/328eefc92af049889e660bc99347b91e/artifacts
+end_time: 1742405872834
+entry_point_name: ''
+experiment_id: '250916149910414696'
+lifecycle_stage: active
+run_id: 328eefc92af049889e660bc99347b91e
+run_name: handsome-zebra-480
+run_uuid: 328eefc92af049889e660bc99347b91e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742405872625
+status: 3
+tags: []
+user_id: rospel

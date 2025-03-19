@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/playground%20series/rainfall/Rainfall-Prediction/mlruns/250916149910414696/75c56b9957c14b1986adf0d09fc0e561/artifacts
+end_time: 1742405940641
+entry_point_name: ''
+experiment_id: '250916149910414696'
+lifecycle_stage: active
+run_id: 75c56b9957c14b1986adf0d09fc0e561
+run_name: kindly-gull-863
+run_uuid: 75c56b9957c14b1986adf0d09fc0e561
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742405939757
+status: 3
+tags: []
+user_id: rospel

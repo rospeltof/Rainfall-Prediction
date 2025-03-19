@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/playground%20series/rainfall/Rainfall-Prediction/mlruns/250916149910414696/be7800c1c942484d988eb627eb7dc82a/artifacts
+end_time: 1742405898933
+entry_point_name: ''
+experiment_id: '250916149910414696'
+lifecycle_stage: active
+run_id: be7800c1c942484d988eb627eb7dc82a
+run_name: magnificent-cow-16
+run_uuid: be7800c1c942484d988eb627eb7dc82a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742405897851
+status: 3
+tags: []
+user_id: rospel

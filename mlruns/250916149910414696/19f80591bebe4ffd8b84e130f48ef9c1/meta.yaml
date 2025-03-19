@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/playground%20series/rainfall/Rainfall-Prediction/mlruns/250916149910414696/19f80591bebe4ffd8b84e130f48ef9c1/artifacts
+end_time: 1742405920602
+entry_point_name: ''
+experiment_id: '250916149910414696'
+lifecycle_stage: active
+run_id: 19f80591bebe4ffd8b84e130f48ef9c1
+run_name: hilarious-ape-173
+run_uuid: 19f80591bebe4ffd8b84e130f48ef9c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742405919699
+status: 3
+tags: []
+user_id: rospel

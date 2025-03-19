@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/playground%20series/rainfall/Rainfall-Prediction/mlruns/250916149910414696/8256290801354081b965e372051bd15d/artifacts
+end_time: 1742405935588
+entry_point_name: ''
+experiment_id: '250916149910414696'
+lifecycle_stage: active
+run_id: 8256290801354081b965e372051bd15d
+run_name: bright-rook-557
+run_uuid: 8256290801354081b965e372051bd15d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742405934781
+status: 3
+tags: []
+user_id: rospel

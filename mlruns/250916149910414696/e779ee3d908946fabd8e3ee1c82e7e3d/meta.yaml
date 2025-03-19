@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/playground%20series/rainfall/Rainfall-Prediction/mlruns/250916149910414696/e779ee3d908946fabd8e3ee1c82e7e3d/artifacts
+end_time: 1742405901131
+entry_point_name: ''
+experiment_id: '250916149910414696'
+lifecycle_stage: active
+run_id: e779ee3d908946fabd8e3ee1c82e7e3d
+run_name: suave-fly-382
+run_uuid: e779ee3d908946fabd8e3ee1c82e7e3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742405900019
+status: 3
+tags: []
+user_id: rospel

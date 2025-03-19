@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e3bdd98809404dd6b640da78b1110349/artifacts
+end_time: 1742405867399
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e3bdd98809404dd6b640da78b1110349
+run_name: judicious-shad-919
+run_uuid: e3bdd98809404dd6b640da78b1110349
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742405866770
+status: 3
+tags: []
+user_id: rospel

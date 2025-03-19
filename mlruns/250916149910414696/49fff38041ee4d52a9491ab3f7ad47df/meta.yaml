@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/playground%20series/rainfall/Rainfall-Prediction/mlruns/250916149910414696/49fff38041ee4d52a9491ab3f7ad47df/artifacts
+end_time: 1742405902169
+entry_point_name: ''
+experiment_id: '250916149910414696'
+lifecycle_stage: active
+run_id: 49fff38041ee4d52a9491ab3f7ad47df
+run_name: funny-grouse-651
+run_uuid: 49fff38041ee4d52a9491ab3f7ad47df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742405901153
+status: 3
+tags: []
+user_id: rospel

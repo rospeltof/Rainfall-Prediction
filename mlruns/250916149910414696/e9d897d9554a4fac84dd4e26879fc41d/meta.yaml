@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/playground%20series/rainfall/Rainfall-Prediction/mlruns/250916149910414696/e9d897d9554a4fac84dd4e26879fc41d/artifacts
+end_time: 1742405899996
+entry_point_name: ''
+experiment_id: '250916149910414696'
+lifecycle_stage: active
+run_id: e9d897d9554a4fac84dd4e26879fc41d
+run_name: receptive-stoat-184
+run_uuid: e9d897d9554a4fac84dd4e26879fc41d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742405898955
+status: 3
+tags: []
+user_id: rospel

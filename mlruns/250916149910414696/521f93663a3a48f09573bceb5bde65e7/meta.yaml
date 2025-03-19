@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/playground%20series/rainfall/Rainfall-Prediction/mlruns/250916149910414696/521f93663a3a48f09573bceb5bde65e7/artifacts
+end_time: 1742405939731
+entry_point_name: ''
+experiment_id: '250916149910414696'
+lifecycle_stage: active
+run_id: 521f93663a3a48f09573bceb5bde65e7
+run_name: sedate-shoat-610
+run_uuid: 521f93663a3a48f09573bceb5bde65e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742405938915
+status: 3
+tags: []
+user_id: rospel

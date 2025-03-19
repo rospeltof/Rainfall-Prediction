@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/playground%20series/rainfall/Rainfall-Prediction/mlruns/157949975562788705/76b26dc6e9394e3b9b9e1b00f8e0d801/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '157949975562788705'
+lifecycle_stage: active
+run_id: 76b26dc6e9394e3b9b9e1b00f8e0d801
+run_name: trusting-deer-78
+run_uuid: 76b26dc6e9394e3b9b9e1b00f8e0d801
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742262658584
+status: 1
+tags: []
+user_id: rospel

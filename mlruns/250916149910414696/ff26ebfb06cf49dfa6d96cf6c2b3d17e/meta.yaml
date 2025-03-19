@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/playground%20series/rainfall/Rainfall-Prediction/mlruns/250916149910414696/ff26ebfb06cf49dfa6d96cf6c2b3d17e/artifacts
+end_time: 1742405914743
+entry_point_name: ''
+experiment_id: '250916149910414696'
+lifecycle_stage: active
+run_id: ff26ebfb06cf49dfa6d96cf6c2b3d17e
+run_name: dapper-wasp-344
+run_uuid: ff26ebfb06cf49dfa6d96cf6c2b3d17e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742405914333
+status: 3
+tags: []
+user_id: rospel

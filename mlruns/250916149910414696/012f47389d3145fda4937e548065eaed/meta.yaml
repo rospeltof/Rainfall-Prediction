@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/playground%20series/rainfall/Rainfall-Prediction/mlruns/250916149910414696/012f47389d3145fda4937e548065eaed/artifacts
+end_time: 1742405896370
+entry_point_name: ''
+experiment_id: '250916149910414696'
+lifecycle_stage: active
+run_id: 012f47389d3145fda4937e548065eaed
+run_name: amazing-chimp-91
+run_uuid: 012f47389d3145fda4937e548065eaed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742405896024
+status: 3
+tags: []
+user_id: rospel

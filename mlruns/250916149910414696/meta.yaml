@@ -1,0 +1,6 @@
+artifact_location: file:///Users/rospel/Desktop/playground%20series/rainfall/Rainfall-Prediction/mlruns/250916149910414696
+creation_time: 1742405866779
+experiment_id: '250916149910414696'
+last_update_time: 1742405866779
+lifecycle_stage: active
+name: LightGBM_current_champion_calibrated

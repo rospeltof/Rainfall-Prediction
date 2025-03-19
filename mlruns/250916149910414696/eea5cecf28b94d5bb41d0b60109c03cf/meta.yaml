@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/playground%20series/rainfall/Rainfall-Prediction/mlruns/250916149910414696/eea5cecf28b94d5bb41d0b60109c03cf/artifacts
+end_time: 1742405907529
+entry_point_name: ''
+experiment_id: '250916149910414696'
+lifecycle_stage: active
+run_id: eea5cecf28b94d5bb41d0b60109c03cf
+run_name: intrigued-tern-32
+run_uuid: eea5cecf28b94d5bb41d0b60109c03cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742405906759
+status: 3
+tags: []
+user_id: rospel

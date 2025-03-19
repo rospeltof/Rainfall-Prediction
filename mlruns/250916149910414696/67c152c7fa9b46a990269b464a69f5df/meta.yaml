@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/playground%20series/rainfall/Rainfall-Prediction/mlruns/250916149910414696/67c152c7fa9b46a990269b464a69f5df/artifacts
+end_time: 1742405896002
+entry_point_name: ''
+experiment_id: '250916149910414696'
+lifecycle_stage: active
+run_id: 67c152c7fa9b46a990269b464a69f5df
+run_name: burly-colt-16
+run_uuid: 67c152c7fa9b46a990269b464a69f5df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742405895368
+status: 3
+tags: []
+user_id: rospel

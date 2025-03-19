@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/playground%20series/rainfall/Rainfall-Prediction/mlruns/250916149910414696/4d6624bb50184fb0bb2d1165e5671cec/artifacts
+end_time: 1742405889990
+entry_point_name: ''
+experiment_id: '250916149910414696'
+lifecycle_stage: active
+run_id: 4d6624bb50184fb0bb2d1165e5671cec
+run_name: abrasive-hog-690
+run_uuid: 4d6624bb50184fb0bb2d1165e5671cec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742405889573
+status: 3
+tags: []
+user_id: rospel

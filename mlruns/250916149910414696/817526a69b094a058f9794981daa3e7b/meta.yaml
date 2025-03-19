@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/playground%20series/rainfall/Rainfall-Prediction/mlruns/250916149910414696/817526a69b094a058f9794981daa3e7b/artifacts
+end_time: 1742405917203
+entry_point_name: ''
+experiment_id: '250916149910414696'
+lifecycle_stage: active
+run_id: 817526a69b094a058f9794981daa3e7b
+run_name: rebellious-auk-494
+run_uuid: 817526a69b094a058f9794981daa3e7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742405916366
+status: 3
+tags: []
+user_id: rospel

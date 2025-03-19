@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/playground%20series/rainfall/Rainfall-Prediction/mlruns/250916149910414696/bbf708cb02c34bef94c118b359bf784c/artifacts
+end_time: 1742405893080
+entry_point_name: ''
+experiment_id: '250916149910414696'
+lifecycle_stage: active
+run_id: bbf708cb02c34bef94c118b359bf784c
+run_name: bald-grouse-526
+run_uuid: bbf708cb02c34bef94c118b359bf784c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742405891603
+status: 3
+tags: []
+user_id: rospel

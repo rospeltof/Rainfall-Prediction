@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/playground%20series/rainfall/Rainfall-Prediction/mlruns/250916149910414696/06318ae4948c4c1ea9a6552a4811cd7c/artifacts
+end_time: 1742405906737
+entry_point_name: ''
+experiment_id: '250916149910414696'
+lifecycle_stage: active
+run_id: 06318ae4948c4c1ea9a6552a4811cd7c
+run_name: delicate-kit-286
+run_uuid: 06318ae4948c4c1ea9a6552a4811cd7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742405906004
+status: 3
+tags: []
+user_id: rospel

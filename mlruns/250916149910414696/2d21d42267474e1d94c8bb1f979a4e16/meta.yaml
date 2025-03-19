@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/playground%20series/rainfall/Rainfall-Prediction/mlruns/250916149910414696/2d21d42267474e1d94c8bb1f979a4e16/artifacts
+end_time: 1742405938889
+entry_point_name: ''
+experiment_id: '250916149910414696'
+lifecycle_stage: active
+run_id: 2d21d42267474e1d94c8bb1f979a4e16
+run_name: gaudy-smelt-402
+run_uuid: 2d21d42267474e1d94c8bb1f979a4e16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742405938114
+status: 3
+tags: []
+user_id: rospel

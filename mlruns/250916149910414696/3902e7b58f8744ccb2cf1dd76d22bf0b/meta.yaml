@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/playground%20series/rainfall/Rainfall-Prediction/mlruns/250916149910414696/3902e7b58f8744ccb2cf1dd76d22bf0b/artifacts
+end_time: 1742405872623
+entry_point_name: ''
+experiment_id: '250916149910414696'
+lifecycle_stage: active
+run_id: 3902e7b58f8744ccb2cf1dd76d22bf0b
+run_name: rogue-elk-967
+run_uuid: 3902e7b58f8744ccb2cf1dd76d22bf0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742405871973
+status: 3
+tags: []
+user_id: rospel

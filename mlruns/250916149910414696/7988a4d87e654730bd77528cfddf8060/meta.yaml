@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/playground%20series/rainfall/Rainfall-Prediction/mlruns/250916149910414696/7988a4d87e654730bd77528cfddf8060/artifacts
+end_time: 1742405919667
+entry_point_name: ''
+experiment_id: '250916149910414696'
+lifecycle_stage: active
+run_id: 7988a4d87e654730bd77528cfddf8060
+run_name: abundant-koi-368
+run_uuid: 7988a4d87e654730bd77528cfddf8060
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742405918564
+status: 3
+tags: []
+user_id: rospel

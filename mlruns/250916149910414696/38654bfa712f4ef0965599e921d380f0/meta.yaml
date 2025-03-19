@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/playground%20series/rainfall/Rainfall-Prediction/mlruns/250916149910414696/38654bfa712f4ef0965599e921d380f0/artifacts
+end_time: 1742405909168
+entry_point_name: ''
+experiment_id: '250916149910414696'
+lifecycle_stage: active
+run_id: 38654bfa712f4ef0965599e921d380f0
+run_name: smiling-deer-327
+run_uuid: 38654bfa712f4ef0965599e921d380f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742405908257
+status: 3
+tags: []
+user_id: rospel

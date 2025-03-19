@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/playground%20series/rainfall/Rainfall-Prediction/mlruns/250916149910414696/53a7aa17693c494f93350aa14f604b7f/artifacts
+end_time: 1742405895346
+entry_point_name: ''
+experiment_id: '250916149910414696'
+lifecycle_stage: active
+run_id: 53a7aa17693c494f93350aa14f604b7f
+run_name: exultant-wolf-938
+run_uuid: 53a7aa17693c494f93350aa14f604b7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742405894542
+status: 3
+tags: []
+user_id: rospel

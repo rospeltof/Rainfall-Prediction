@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/playground%20series/rainfall/Rainfall-Prediction/mlruns/250916149910414696/158e520e7cb24087b5dd4e60dcb0271f/artifacts
+end_time: 1742405910701
+entry_point_name: ''
+experiment_id: '250916149910414696'
+lifecycle_stage: active
+run_id: 158e520e7cb24087b5dd4e60dcb0271f
+run_name: skittish-toad-163
+run_uuid: 158e520e7cb24087b5dd4e60dcb0271f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742405910281
+status: 3
+tags: []
+user_id: rospel

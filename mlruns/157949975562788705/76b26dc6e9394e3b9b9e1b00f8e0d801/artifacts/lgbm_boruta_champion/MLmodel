@@ -1,0 +1,29 @@
+artifact_path: lgbm_boruta_champion
+flavors:
+  lightgbm:
+    code: null
+    data: model.pkl
+    lgb_version: 4.3.0
+    model_class: lightgbm.sklearn.LGBMClassifier
+  python_function:
+    data: model.pkl
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.lightgbm
+    python_version: 3.11.9
+is_signature_from_type_hint: false
+mlflow_version: 2.20.3
+model_size_bytes: 191330
+model_uuid: 94ff91dc38b04a63a9598dde1afdbca7
+run_id: 76b26dc6e9394e3b9b9e1b00f8e0d801
+saved_input_example_info:
+  artifact_path: input_example.json
+  serving_input_path: serving_input_example.json
+  type: ndarray
+signature:
+  inputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1, 9]}}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-03-18 01:52:44.876300'

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/playground%20series/rainfall/Rainfall-Prediction/mlruns/250916149910414696/a6673cb1f80442c5b657ef29de45792d/artifacts
+end_time: 1742405922533
+entry_point_name: ''
+experiment_id: '250916149910414696'
+lifecycle_stage: active
+run_id: a6673cb1f80442c5b657ef29de45792d
+run_name: traveling-boar-255
+run_uuid: a6673cb1f80442c5b657ef29de45792d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742405921828
+status: 3
+tags: []
+user_id: rospel

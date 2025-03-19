@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/playground%20series/rainfall/Rainfall-Prediction/mlruns/250916149910414696/66bb92bd80c942a9bdaafd609923c087/artifacts
+end_time: 1742405893825
+entry_point_name: ''
+experiment_id: '250916149910414696'
+lifecycle_stage: active
+run_id: 66bb92bd80c942a9bdaafd609923c087
+run_name: respected-pig-740
+run_uuid: 66bb92bd80c942a9bdaafd609923c087
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742405893101
+status: 3
+tags: []
+user_id: rospel

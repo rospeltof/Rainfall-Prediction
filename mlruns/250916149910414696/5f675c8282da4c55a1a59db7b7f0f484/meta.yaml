@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/playground%20series/rainfall/Rainfall-Prediction/mlruns/250916149910414696/5f675c8282da4c55a1a59db7b7f0f484/artifacts
+end_time: 1742405927638
+entry_point_name: ''
+experiment_id: '250916149910414696'
+lifecycle_stage: active
+run_id: 5f675c8282da4c55a1a59db7b7f0f484
+run_name: welcoming-grub-778
+run_uuid: 5f675c8282da4c55a1a59db7b7f0f484
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742405926840
+status: 3
+tags: []
+user_id: rospel

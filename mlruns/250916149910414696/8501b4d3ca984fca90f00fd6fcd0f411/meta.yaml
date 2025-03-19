@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/playground%20series/rainfall/Rainfall-Prediction/mlruns/250916149910414696/8501b4d3ca984fca90f00fd6fcd0f411/artifacts
+end_time: 1742405932873
+entry_point_name: ''
+experiment_id: '250916149910414696'
+lifecycle_stage: active
+run_id: 8501b4d3ca984fca90f00fd6fcd0f411
+run_name: blushing-crab-135
+run_uuid: 8501b4d3ca984fca90f00fd6fcd0f411
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742405932218
+status: 3
+tags: []
+user_id: rospel

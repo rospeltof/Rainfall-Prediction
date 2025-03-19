@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/playground%20series/rainfall/Rainfall-Prediction/mlruns/250916149910414696/58172f03c466477b83eea9ab6cb49253/artifacts
+end_time: 1742405880378
+entry_point_name: ''
+experiment_id: '250916149910414696'
+lifecycle_stage: active
+run_id: 58172f03c466477b83eea9ab6cb49253
+run_name: rogue-sloth-958
+run_uuid: 58172f03c466477b83eea9ab6cb49253
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742405879882
+status: 3
+tags: []
+user_id: rospel

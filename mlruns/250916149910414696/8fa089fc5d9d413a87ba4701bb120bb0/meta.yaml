@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/playground%20series/rainfall/Rainfall-Prediction/mlruns/250916149910414696/8fa089fc5d9d413a87ba4701bb120bb0/artifacts
+end_time: 1742405903384
+entry_point_name: ''
+experiment_id: '250916149910414696'
+lifecycle_stage: active
+run_id: 8fa089fc5d9d413a87ba4701bb120bb0
+run_name: caring-panda-641
+run_uuid: 8fa089fc5d9d413a87ba4701bb120bb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742405902191
+status: 3
+tags: []
+user_id: rospel

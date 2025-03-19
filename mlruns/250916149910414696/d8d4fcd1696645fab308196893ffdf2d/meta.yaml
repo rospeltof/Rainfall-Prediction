@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/playground%20series/rainfall/Rainfall-Prediction/mlruns/250916149910414696/d8d4fcd1696645fab308196893ffdf2d/artifacts
+end_time: 1742405875756
+entry_point_name: ''
+experiment_id: '250916149910414696'
+lifecycle_stage: active
+run_id: d8d4fcd1696645fab308196893ffdf2d
+run_name: upbeat-fowl-718
+run_uuid: d8d4fcd1696645fab308196893ffdf2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742405874917
+status: 3
+tags: []
+user_id: rospel

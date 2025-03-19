@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/playground%20series/rainfall/Rainfall-Prediction/mlruns/250916149910414696/62c09800ade0442b8a8064ccdb247d2a/artifacts
+end_time: 1742405882553
+entry_point_name: ''
+experiment_id: '250916149910414696'
+lifecycle_stage: active
+run_id: 62c09800ade0442b8a8064ccdb247d2a
+run_name: abrasive-wren-495
+run_uuid: 62c09800ade0442b8a8064ccdb247d2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742405882067
+status: 3
+tags: []
+user_id: rospel

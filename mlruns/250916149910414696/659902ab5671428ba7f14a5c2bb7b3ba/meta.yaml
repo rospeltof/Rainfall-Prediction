@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/playground%20series/rainfall/Rainfall-Prediction/mlruns/250916149910414696/659902ab5671428ba7f14a5c2bb7b3ba/artifacts
+end_time: 1742405913370
+entry_point_name: ''
+experiment_id: '250916149910414696'
+lifecycle_stage: active
+run_id: 659902ab5671428ba7f14a5c2bb7b3ba
+run_name: abrasive-hare-687
+run_uuid: 659902ab5671428ba7f14a5c2bb7b3ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742405912660
+status: 3
+tags: []
+user_id: rospel

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rospel/Desktop/playground%20series/rainfall/Rainfall-Prediction/mlruns/250916149910414696/f28efd8e55ca4f3e865da14b0c885e5c/artifacts
+end_time: 1742405921804
+entry_point_name: ''
+experiment_id: '250916149910414696'
+lifecycle_stage: active
+run_id: f28efd8e55ca4f3e865da14b0c885e5c
+run_name: defiant-duck-219
+run_uuid: f28efd8e55ca4f3e865da14b0c885e5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742405920627
+status: 3
+tags: []
+user_id: rospel
